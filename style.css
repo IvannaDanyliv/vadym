@@ -1,0 +1,42 @@
+.logo{
+ width:100px ;
+ height: 100px; 
+}
+main p{
+   background-color: rgb(180, 155, 203);}
+
+main table{ 
+ border:2px solid black;
+}
+td{
+border:2px solid black;  
+}
+header h1{
+text-align: center;   
+}
+footer p{
+ background-color: rgb(180, 155, 203);  
+}
+main h2 {
+ 
+}
+main h3{
+   
+   
+}
+main h4{
+ background-color:rgb(184, 165, 202); 
+ color: black;  
+}
+.Logika{
+width:125px ;  
+height:125px ;
+}
+nav{border:2px solid black;
+border-radius: 10px;
+}
+nav a{
+text-decoration:none ; 
+font-size:20px ;
+padding:5px ;
+}
